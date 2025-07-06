@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.egg-info/
+
+# Virtual environments
+.pixi/
+
+# Pytest-cov
+.coverage
+htmlcov/
+.pytest_cache/
